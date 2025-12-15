@@ -7,7 +7,7 @@ I am a Graduate Student specializing in **Deep Learning**, **Computer Vision**, 
 
 ### 🚀 Key Projects
 
-#### 🤖 [M5 Sales Forecasting (Deep Learning)](https://github.com/KaozhiChen/Demand_Forecasting_M5)
+#### 🤖 [M5 Sales Forecasting (Deep Learning)](https://github.com/faisalm36/Demand_Forecasting_M5)
 * **Tech:** Python, PyTorch, LSTM, Transformers
 * **Impact:** Collaborated on a time-series forecasting model to predict retail sales for the M5 dataset, utilizing advanced attention mechanisms for high accuracy.
 
